@@ -1,4 +1,4 @@
-package goSum
+package GoSum
 
 func Add(a, b int) int {
 	return a + b
