@@ -1,3 +1,3 @@
-module github.com/ilinikem/goSum
+module goSum
 
 go 1.23.1
